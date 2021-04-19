@@ -1,0 +1,94 @@
+﻿ Pradiniai duomenys: 
+U10a.txt 
+|Data                    |Pavarde ir vardas   |Kodas |Detaliu skaicius|
+------------------------------------------------------------------------------------------
+3/2/2018 12:00:00 AM      TomaukasTomas2       55     10 
+1/4/2018 12:00:00 AM      Zigmauskas Zigmas    55     5  
+5/6/2018 12:00:00 AM      Antanauskas Antanas  2222   5  
+5/6/2018 12:00:00 AM      Antanauskas Antanas  33     2  
+3/2/2018 12:00:00 AM      Tomauskas Tomas      56     5  
+U10b.txt 
+|Kodas     |Pavadinimas    |Kaina 
+--------------------------------------------------
+33          Lenta           2              
+2222        Stalas          5              
+55          Medis           5              
+56          Kaltas          10             
+Geriausas darbuotojas/-ai: 
+|Dienu skaicius |Pavarde ir vardas   |Pinigai   |Detaliu skaicius
+--------------------------------------------------
+392              TomaukasTomas2       50         10        
+392              Tomauskas Tomas      50         5         
+Darbuotojai gamine tik vienas detales: 
+|Pavarde ir vardas|
+--------------------------------------------------
+TomaukasTomas2      
+Zigmauskas Zigmas   
+Tomauskas Tomas     
+Detaliu skaiicus: 20
+Suma: 125
+Surusiuotas sarasas: 
+|Data                    |Pavarde ir vardas   |Kodas |Detaliu skaicius|
+------------------------------------------------------------------------------------------
+5/6/2018 12:00:00 AM      Antanauskas Antanas  33     2  
+5/6/2018 12:00:00 AM      Antanauskas Antanas  2222   5  
+3/2/2018 12:00:00 AM      TomaukasTomas2       55     10 
+1/4/2018 12:00:00 AM      Zigmauskas Zigmas    55     5  
+Pradiniai duomenys: 
+U10a.txt 
+|Data                    |Pavarde ir vardas   |Kodas |Detaliu skaicius|
+------------------------------------------------------------------------------------------
+5/3/2018 12:00:00 AM      Lukauskas Lukas      55     5  
+5/3/2018 12:00:00 AM      Lukauskas Lukas      55     5  
+5/3/2018 12:00:00 AM      Lukauskas Lukas      56     5  
+5/3/2018 12:00:00 AM      Lukauskas Lukas      56     5  
+U10b.txt 
+|Kodas     |Pavadinimas    |Kaina 
+--------------------------------------------------
+33          Lenta           2              
+2222        Stalas          5              
+55          Medis           5              
+56          Kaltas          10             
+Geriausas darbuotojas/-ai: 
+|Dienu skaicius |Pavarde ir vardas   |Pinigai   |Detaliu skaicius
+--------------------------------------------------
+330              Lukauskas Lukas      150        20        
+Darbuotojai gamine tik vienas detales: 
+|Pavarde ir vardas|
+--------------------------------------------------
+Detaliu skaiicus: 0
+Suma: 0
+Surusiuotas sarasas: 
+|Data                    |Pavarde ir vardas   |Kodas |Detaliu skaicius|
+------------------------------------------------------------------------------------------
+5/3/2018 12:00:00 AM      Lukauskas Lukas      55     5  
+5/3/2018 12:00:00 AM      Lukauskas Lukas      55     5  
+Pradiniai duomenys: 
+U10a.txt 
+|Data                    |Pavarde ir vardas   |Kodas |Detaliu skaicius|
+------------------------------------------------------------------------------------------
+5/3/2018 12:00:00 AM      Lukauskas Lukas      55     5  
+5/3/2018 12:00:00 AM      Lukauskas Lukas      55     5  
+5/3/2018 12:00:00 AM      Lukauskas Lukas      56     5  
+5/3/2018 12:00:00 AM      Lukauskas Lukas      56     5  
+U10b.txt 
+|Kodas     |Pavadinimas    |Kaina 
+--------------------------------------------------
+33          Lenta           2              
+2222        Stalas          5              
+55          Medis           5              
+56          Kaltas          10             
+Geriausas darbuotojas/-ai: 
+|Dienu skaicius |Pavarde ir vardas   |Pinigai   |Detaliu skaicius
+--------------------------------------------------
+330              Lukauskas Lukas      150        20        
+Darbuotojai gamine tik vienas detales: 
+|Pavarde ir vardas|
+--------------------------------------------------
+Detaliu skaiicus: 0
+Suma: 0
+Surusiuotas sarasas: 
+|Data                    |Pavarde ir vardas   |Kodas |Detaliu skaicius|
+------------------------------------------------------------------------------------------
+5/3/2018 12:00:00 AM      Lukauskas Lukas      55     5  
+5/3/2018 12:00:00 AM      Lukauskas Lukas      55     5  

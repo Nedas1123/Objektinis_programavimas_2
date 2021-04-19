@@ -1,0 +1,4 @@
+﻿33,Lenta,2
+2222,Stalas,5
+55,Medis,5
+56,Kaltas,10
